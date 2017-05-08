@@ -24,4 +24,6 @@ https://openhomeautomation.net/experience-using-online-pcb-software-easyeda/
 
 ## Fritzing
 
+[Video sobre el desarrollo de una placa PCB con Fritzing](https://www.youtube.com/watch?v=durXAuJWGk4&t=1289s&index=1&list=PLmzKTn3f9uzHltVnC6ou40FbGqpOEqiS7)
+
 ## 123d.Circuits.io
