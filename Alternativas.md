@@ -21,3 +21,7 @@ Actúa como simulador de Arduino
 [Libro sobre simulación](https://easyeda.com/Doc/Simulation-eBook/)
 
 https://openhomeautomation.net/experience-using-online-pcb-software-easyeda/
+
+## Fritzing
+
+## 123d.Circuits.io
